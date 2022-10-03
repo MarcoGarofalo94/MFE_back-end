@@ -1,0 +1,10 @@
+[
+  {
+    "trigger": "LOGIN",
+    "run": ["ms1"]
+  },
+  {
+    "trigger": "GEODATA",
+    "run": ["ms2"]
+  }
+]
